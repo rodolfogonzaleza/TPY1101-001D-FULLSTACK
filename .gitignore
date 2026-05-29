@@ -139,5 +139,27 @@ dist
 
 # Vite files
 vite.config.js.timestamp-*
+
+# Java / Spring Boot
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
 vite.config.ts.timestamp-*
 .vite/
